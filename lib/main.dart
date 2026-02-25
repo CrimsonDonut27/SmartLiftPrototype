@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.red,
 
-          title: const Text('what\'s up my nigger'),
+          title: const Text('what\'s up my NIGGERS'),
         ),
 
         floatingActionButton: FloatingActionButton(
