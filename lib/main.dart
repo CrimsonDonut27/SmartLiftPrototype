@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.black,
+          backgroundColor: const Color.fromARGB(255, 0, 255, 55),
 
-          title: const Text('what\'s up my NIGGERS'),
+          title: const Text('PAKYU NIGGER'),
         ),
 
         floatingActionButton: FloatingActionButton(
