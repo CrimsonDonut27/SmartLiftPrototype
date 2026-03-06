@@ -59,6 +59,18 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  # custom fonts
+  fonts:
+    - family: Goldman
+      fonts:
+        - asset: fonts/Goldman-Regular.ttf
+          weight: 400
+
+
+# NOTE: make sure the Goldman font files are placed under the
+# `fonts/` directory (create it in the project root) and run
+# `flutter pub get` to apply these changes.
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
